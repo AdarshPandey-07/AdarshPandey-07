@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 What are you even doin here???
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshPandey-07&layout=horizontal)](https://github.com/anuraghazra/github-readme-stats)
-[![Followers](https://img.shields.io/github/followers/AdarshPandey-07?style=social)](https://github.com/AdarshPandey-07)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshPandey-07&layout=horizontal)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Followers](https://img.shields.io/github/followers/AdarshPandey-07?style=social)](https://github.com/AdarshPandey-07)<br>
 [![Forks](https://img.shields.io/github/forks/AdarshPandey-07?style=social)](https://github.com/AdarshPandey-07)
+
 
 
 
